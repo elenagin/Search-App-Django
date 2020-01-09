@@ -1,1 +1,1 @@
-web: gunicorn my_app.wsgi
+web: gunicorn search_app_django.wsgi
